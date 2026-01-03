@@ -11,9 +11,7 @@ I’m a data science enthusiast currently exploring the cutting edge of AI, incl
 ![](https://github-readme-stats.vercel.app/api?username=Techy-Mohit&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Techy-Mohit&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Techy-Mohit&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 # ✅ Leetcode Stats:
 ![](https://leetcard.jacoblin.cool/Techy-Mohit?theme=unicorn)
-[![](https://visitcount.itsvg.in/api?id=Techy-Mohit&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
