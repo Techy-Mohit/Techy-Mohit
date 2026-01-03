@@ -14,6 +14,5 @@ I’m a data science enthusiast currently exploring the cutting edge of AI, incl
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Techy-Mohit&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://leetcard.jacoblin.cool/Techy-Mohit?theme=unicorn)
-![](https://leetcard.jacoblin.cool/Techy-Mohit?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/Techy-Mohit?colors=012a4a,013a63,a9d6e5,ffffff,0077b6,0096c7,00b4d8,90e0ef)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
